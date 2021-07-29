@@ -36,8 +36,8 @@ Thanks ! :apple::green_apple:
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pommepommee&layout=compact)]
-
+![Langages utilisés par Pommepomme](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=pommepommee&custom_title=Langages%20de%20Pommepomme&include_all_commits=true&count_private=true&langs_count=20&layout=compact&theme=vue-dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 
 [safir]: https://github.com/SAFIR-URCA "Github SAFIR-URCA"
 [opencv]: https://opencv.org/
