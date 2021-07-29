@@ -1,16 +1,45 @@
-### Hi there 👋
+### :fr: Bonjour !:wave:
 
-<!--
-**pommepommee/pommepommee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon Github !
 
-Here are some ideas to get you started:
+Je suis apprenti ingénieur logiciel chez Thales et code principalement en __Python__ et __C++__. Je m'intéresse aussi au développement Web avec __Angular__ (__Typescript__). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vous trouverez sur mon Github des projets d'études ou des projets réalisés pour l'association étudiante que je préside : [**SAFIR-URCA**][safir]:owl:
+Il y a notamment des [articles][posts] destinés à être affichés sur le [site][safir_website] de l'association à terme.
+
+Je m'intéresse également à la création de bots Discord et autres. 
+
+J'ai également travaillé sur des produits autour de la vision par ordinateur avec [**OpenCV**][opencv] et **[Darknet][darknet] [YOLOv4][yolo]** pour faire de la reconnaissance d'objets ou des détections d'altération.
+
+Je suis disponible par mail [:email:][mail] et sur Discord, soit par mon profil @PommePomme#2210 ou sur le [Serveur SAFIR][discord]
+
+Merci ! :apple::green_apple:
+
+***
+
+### :uk: Hi there! :wave:
+
+Welcome on my Github!
+
+I'm an apprentice software engineer at Thales and code mainly in __Python__ and __C++__. I'm also interested in web development __with Angular__ (__Typescript__). 
+
+You will find on my Github some study projects or projects done for the student association I preside: [**SAFIR-URCA**][safir]
+There are in particular [articles][posts] intended to be posted on the [website][safir_website] of the association in the long run.
+
+I'm also interested in creating Discord bots and such. 
+
+I also worked on products around computer vision with [**OpenCV**][opencv] and **[Darknet][darknet] [YOLOv4][yolov]** to do object recognition or tampering detection.
+
+You can reach me by mail [:email:][mail] and on Discord, either through my profile @PommePomme#2210 or on the [SAFIR Server][discord]
+
+Thanks ! :apple::green_apple:
+
+[safir]: https://github.com/SAFIR-URCA "Github SAFIR-URCA"
+[opencv]: https://opencv.org/
+[darknet]: https://pjreddie.com/darknet/
+[yolo]: https://pjreddie.com/darknet/yolo/
+[posts]: https://github.com/SAFIR-URCA/Posts
+[safir website]: http://safir.univ-reims.fr
+[discord]: https://discord.gg/T2vM2Tu
+[mail]: mailto:thomasgpro@hotmail.com "Envoyer un mail à Pommepomme"
+
