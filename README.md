@@ -34,6 +34,11 @@ You can reach me by mail [:email:][mail] and on Discord, either through my profi
 
 Thanks ! :apple::green_apple:
 
+***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pommepommee&layout=compact)]
+
+
 [safir]: https://github.com/SAFIR-URCA "Github SAFIR-URCA"
 [opencv]: https://opencv.org/
 [darknet]: https://pjreddie.com/darknet/
