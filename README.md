@@ -44,7 +44,7 @@ Thanks ! :apple::green_apple:
 [darknet]: https://pjreddie.com/darknet/
 [yolo]: https://pjreddie.com/darknet/yolo/
 [posts]: https://github.com/SAFIR-URCA/Posts
-[safir website]: http://safir.univ-reims.fr
+[safir_website]: http://safir.univ-reims.fr
 [discord]: https://discord.gg/T2vM2Tu
 [mail]: mailto:thomasgpro@hotmail.com "Envoyer un mail à Pommepomme"
 
