@@ -53,3 +53,9 @@ Thanks ! :apple::green_apple:
 [mail]: mailto:thomasgpro@hotmail.com "Envoyer un mail à Pommepomme"
 [subtitler]: https://subtitler.fr
 
+<br>
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/thpmas-gigout" class="fancybox" ><img src="https://user-images.githubusercontent.com/63207451/97303444-b2c04380-185a-11eb-8cfc-864c33a64e4b.png" title="LinkedIn" width="40" height="40"></a>
+  <a href="mailto:thomasgpro@hotmail.com" class="fancybox" ><img src="https://user-images.githubusercontent.com/63207451/97303543-cec3e500-185a-11eb-8adc-c1364e2054a9.png" title="Mail" width="40" height="40"></a>
+</p>
