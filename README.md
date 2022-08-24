@@ -2,7 +2,7 @@
 
 Bienvenue sur mon Github !
 
-Je suis apprenti ingénieur logiciel chez Thales et code principalement en __Python__ et __C++__. Je m'intéresse aussi au développement Web avec __Angular__ (__Typescript__). 
+Je suis ingénieur logiciel et code principalement en __Python__ et __C++__. Je m'intéresse aussi au développement Web avec __Angular__ (__Typescript__). 
 
 Vous trouverez sur mon Github des projets d'études ou des projets réalisés pour l'association étudiante que je préside : [**SAFIR-URCA**][safir]:owl:
 Il y a notamment des [articles][posts] destinés à être affichés sur le [site][safir_website] de l'association à terme.
@@ -23,7 +23,7 @@ Merci ! :apple::green_apple:
 
 Welcome on my Github!
 
-I'm an apprentice software engineer at Thales and code mainly in __Python__ and __C++__. I'm also interested in web development __with Angular__ (__Typescript__). 
+I'm a software engineer and code mainly in __Python__ and __C++__. I'm also interested in web development __with Angular__ (__Typescript__). 
 
 You will find on my Github some study projects or projects done for the student association I preside: [**SAFIR-URCA**][safir]
 There are in particular [articles][posts] intended to be posted on the [website][safir_website] of the association in the long run.
